@@ -1,0 +1,25 @@
+#img-block{
+    background-image: url(../images/nikmati_perjalananmu2.jpg);
+}
+
+.aa-price-package .aa-price .aa-price-section {
+    padding: 25px 5px;
+    margin-left: -1.25rem;
+    margin-right: -1.25rem;
+    font-size: 28px;
+    font-family: "Dosis", "Helvetica", Arial, sans-serif;
+    font-weight: 600;
+  }
+
+.bg-block{
+    background: linear-gradient(270deg, #0091b6 0%, #00ccff 100%);
+    padding-top: 10px;
+}
+
+.aa-apple:hover i {
+    color: #B4B0B0;
+  }
+  
+.aa-android:hover i {
+    color: #a4c639;
+  }
